@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "kinopoisk bot"
+git branch -M main
+git remote add origin git@github.com:YOURUSERNAME/kinopoisk_bot.git
+git push -u origin main
